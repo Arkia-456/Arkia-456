@@ -20,11 +20,7 @@ Let's put the work aside, I'm a gamer. I mean, I love video games. RPG, J-RPG, a
 I work on my personal projects on my free time. I want to deepen my skills in TypeScript, Node.js and learn new concepts like DDD, TDD, craftsmanship.
 For now, I'm fully invested in Madness' RPG, starting our first sessions before the end of the year.
 
-<h3>My two main projects</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkia-456&repo=madness&theme=radical)](https://github.com/arkia-456/madness)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkia-456&repo=discordbot&theme=radical)](https://github.com/arkia-456/discordbot)
+<h3>My main languages</h3>
 
 [![Arkia's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arkia&layout=compact&langs_count=5&theme=radical)](https://github.com/arkia-456)
 
