@@ -24,4 +24,4 @@ For now, I'm fully invested in Madness' RPG, starting our first sessions before 
 
 [![Arkia's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arkia&layout=compact&langs_count=5&theme=radical)](https://github.com/arkia-456)
 
-Maybe you knew me as LangkaWS, but I wanted to start fresh 😄 So here I am!
+Maybe you knew me as [LangkaWS](https://github.com/langkaWS), but I wanted to start fresh 😄 So here I am!
